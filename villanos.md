@@ -2,4 +2,3 @@
 
 * Ultron
 * Thanos
-* Capitán America
